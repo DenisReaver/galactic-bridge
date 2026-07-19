@@ -6,8 +6,8 @@ import { Providers } from './providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'powered By LayerZero',
-  description: 'Create Omnichain tokens on the ARC Testnet + Sepolia',
+  title: 'powered By Galactic Bridge',
+  description: 'Create Omnichain tokens on the ARC Testnet, Base Sepolia, Sepolia, Optimism and ARbitrum',
 };
 
 export default function RootLayout({
