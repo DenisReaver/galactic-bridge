@@ -826,8 +826,8 @@ const isL2 = [ARBITRUM_SEPOLIA_CHAIN_ID, OPTIMISM_SEPOLIA_CHAIN_ID].includes(tar
 
           <div className="flex justify-between items-center mb-8">
             <div>
-              <h1 className="text-5xl font-bold text-white drop-shadow-2xl">ARC OFT Creator</h1>
-              <p className="text-gray-200 text-lg mt-1">LayerZero • 5 Testnets</p>
+              <h1 className="text-5xl font-bold text-white drop-shadow-2xl">Galactic Bridge</h1>
+              <p className="text-gray-200 text-lg mt-1">LayerZero OFT v2 • 5 Testnets</p>
             </div>
             <button onClick={resetAll} className="bg-red-600 hover:bg-red-700 px-6 py-3 rounded-2xl font-semibold text-sm">
               Create New Token
